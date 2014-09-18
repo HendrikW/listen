@@ -12,7 +12,7 @@ module Listen
       finalizer :finalize
 
       DEFAULTS = {
-        host: '127.0.0.1',
+        host: '10.0.2.2',
         port: '4000'
       }
 
